@@ -1,2 +1,2 @@
 # MathGame
-<img scr="/img/img1"/>
+<img scr="https://github.com/Amit-1001/MathGame/blob/master/img/img1.jpg"/>
